@@ -29,9 +29,10 @@ The overall goal is to present conservation awareness in a clear, approachable, 
 ```text
 wildlife-conservation/
 ├── index.html
-├── species.html
 ├── conservation.html
+├── species.html
 ├── gallery.html
+├── explore.html
 ├── quiz.html
 ├── css/
 │   └── style.css
